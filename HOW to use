@@ -1,0 +1,31 @@
+Here are some instructions for creating a bookmark with custom JavaScript:
+
+### Instructions for Adding a JavaScript Bookmark
+
+1. **Copy the JavaScript Code:**
+   - On the next page, you will find the JavaScript code you need. Highlight and copy the code to your clipboard.
+
+2. **Open Your Browser's Bookmark Manager:**
+   - Click on the bookmark bar at the top of your browser window (if it's not visible, you might need to enable it in your browser settings).
+
+3. **Add a New Bookmark:**
+   - Right-click on the bookmark bar and select “Add Page” or simply click on the star icon (depending on your browser).
+
+4. **Name Your Bookmark:**
+   - In the dialog box that appears, enter a name for your bookmark. This could be something descriptive related to the function of the code you copied.
+
+5. **Paste the JavaScript Code:**
+   - Below the name field, you will find a field labeled “URL” or “Location.” Here, paste the JavaScript code that you copied earlier.
+
+6. **Save the Bookmark:**
+   - Click “Save” or “Done” to add the bookmark to your bar.
+
+### Using the Bookmark
+
+- Whenever you want to execute the JavaScript code, simply click on the bookmark you just created in the bookmark bar. The code will run on the current page.
+
+### Important Note
+
+- Ensure that you only run JavaScript code from trusted sources to protect your privacy and security.
+
+Feel free to customize this further if you need any more specific details!
